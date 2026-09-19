@@ -1,0 +1,16 @@
+{
+  "name": "Controle de Ganhos & Custos",
+  "short_name": "Ganhos App",
+  "start_url": "/Testenewapp/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#10b981",
+  "description": "Gestao de turnos, combustivel e manutencao",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3774/3774090.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
