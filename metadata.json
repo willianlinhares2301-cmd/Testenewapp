@@ -1,0 +1,8 @@
+{
+  "name": "Remix Controle de Ganhos e Custos",
+  "description": "App de gerenciamento de ganhos diários (dia e noite), KM rodados, cálculo automático de lucro líquido, controle de abastecimento, histórico de manutenção e relatórios em Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
